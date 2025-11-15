@@ -2,6 +2,7 @@
 
 A small machine-learning playground written in Elm 0.19. The project contains implementations of simple ML algorithms (KNN, KMeans, Naive Bayes, Regression) together with small demo pages and basic metrics.
 
+![Demo screenshot](images/Screenshot.png)
 
 ## Project layout
 
